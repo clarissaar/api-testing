@@ -1,0 +1,14 @@
+{
+  "name": "apitesting",
+  "version": "1.0.0",
+  "description": "api testing project",
+  "main": "test1_spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clarissa Rodrigues",
+  "license": "ISC",
+  "devDependencies": {
+    "frisby": "^0.8.5"
+  }
+}
